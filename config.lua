@@ -32,7 +32,7 @@ Config.AttachmentCrafting = {
             points = 1,
         },
         [3] = {
-            name = "rifle_extendedclip",
+            name = "assaultrifle_extendedclip",
             amount = 50,
             info = {},
             costs = {
@@ -47,7 +47,7 @@ Config.AttachmentCrafting = {
             points = 1,
         },
         [4] = {
-            name = "rifle_drummag",
+            name = "assaultrifle_drum",
             amount = 50,
             info = {},
             costs = {
@@ -62,7 +62,7 @@ Config.AttachmentCrafting = {
             points = 1,
         },
         [5] = {
-            name = "smg_flashlight",
+            name = "smg_drum",
             amount = 50,
             info = {},
             costs = {
@@ -90,7 +90,7 @@ Config.AttachmentCrafting = {
             points = 1,
         },
         [7] = {
-            name = "smg_suppressor",
+            name = "microsmg_extendedclip",
             amount = 50,
             info = {},
             costs = {
